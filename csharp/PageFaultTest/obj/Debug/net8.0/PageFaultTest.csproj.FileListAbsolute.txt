@@ -1,0 +1,15 @@
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/bin/Debug/net8.0/PageFaultTest
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/bin/Debug/net8.0/PageFaultTest.deps.json
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/bin/Debug/net8.0/PageFaultTest.runtimeconfig.json
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/bin/Debug/net8.0/PageFaultTest.dll
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/bin/Debug/net8.0/PageFaultTest.pdb
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.AssemblyInfoInputs.cache
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.AssemblyInfo.cs
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.csproj.CoreCompileInputs.cache
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.sourcelink.json
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.dll
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/refint/PageFaultTest.dll
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.pdb
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.genruntimeconfig.cache
+/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/ref/PageFaultTest.dll
