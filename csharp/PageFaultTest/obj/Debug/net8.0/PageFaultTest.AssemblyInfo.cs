@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PageFaultTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de1fa4c4fa396a72770637aa9d907f4bcd4282f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PageFaultTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PageFaultTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

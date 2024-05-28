@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/SO-Page-Fault/csharp/PageFaultTest/PageFaultTest.csproj": {}
+    "C:\\Users\\artur\\Documents\\PROGRAMAÇÃO\\Sistemas Operacionais\\PageFault\\SO-Page-Fault\\csharp\\PageFaultTest\\PageFaultTest.csproj": {}
   },
   "projects": {
-    "/workspaces/SO-Page-Fault/csharp/PageFaultTest/PageFaultTest.csproj": {
+    "C:\\Users\\artur\\Documents\\PROGRAMAÇÃO\\Sistemas Operacionais\\PageFault\\SO-Page-Fault\\csharp\\PageFaultTest\\PageFaultTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/SO-Page-Fault/csharp/PageFaultTest/PageFaultTest.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\Documents\\PROGRAMAÇÃO\\Sistemas Operacionais\\PageFault\\SO-Page-Fault\\csharp\\PageFaultTest\\PageFaultTest.csproj",
         "projectName": "PageFaultTest",
-        "projectPath": "/workspaces/SO-Page-Fault/csharp/PageFaultTest/PageFaultTest.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/",
+        "projectPath": "C:\\Users\\artur\\Documents\\PROGRAMAÇÃO\\Sistemas Operacionais\\PageFault\\SO-Page-Fault\\csharp\\PageFaultTest\\PageFaultTest.csproj",
+        "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artur\\Documents\\PROGRAMAÇÃO\\Sistemas Operacionais\\PageFault\\SO-Page-Fault\\csharp\\PageFaultTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,3 +13,18 @@
 /workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.pdb
 /workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/PageFaultTest.genruntimeconfig.cache
 /workspaces/SO-Page-Fault/csharp/PageFaultTest/obj/Debug/net8.0/ref/PageFaultTest.dll
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\bin\Debug\net8.0\PageFaultTest.exe
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\bin\Debug\net8.0\PageFaultTest.deps.json
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\bin\Debug\net8.0\PageFaultTest.runtimeconfig.json
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\bin\Debug\net8.0\PageFaultTest.dll
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\bin\Debug\net8.0\PageFaultTest.pdb
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\PageFaultTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\PageFaultTest.AssemblyInfoInputs.cache
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\PageFaultTest.AssemblyInfo.cs
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\PageFaultTest.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\PageFaultTest.sourcelink.json
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\PageFaultTest.dll
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\refint\PageFaultTest.dll
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\PageFaultTest.pdb
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\PageFaultTest.genruntimeconfig.cache
+C:\Users\artur\Documents\PROGRAMAÇÃO\Sistemas Operacionais\PageFault\SO-Page-Fault\csharp\PageFaultTest\obj\Debug\net8.0\ref\PageFaultTest.dll
